@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Палитра"; ObjectID = "AgK-Wz-YlE"; */
+"AgK-Wz-YlE.title" = "Палитра";
+
+/* Class = "UIButton"; normalTitle = "Отмена"; ObjectID = "bMi-xf-gfD"; */
+"bMi-xf-gfD.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "none"; ObjectID = "fYW-mT-89N"; */
+"fYW-mT-89N.text" = "none";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "rBj-7U-p0O"; */
+"rBj-7U-p0O.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Цвет"; ObjectID = "tQU-bd-Kas"; */
+"tQU-bd-Kas.title" = "Цвет";
+
+/* Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "tZK-UA-g5P"; */
+"tZK-UA-g5P.normalTitle" = "Сохранить";
+
+/* Class = "UITextField"; placeholder = "Название цвета"; ObjectID = "w3j-y7-q3H"; */
+"w3j-y7-q3H.placeholder" = "Название цвета";
